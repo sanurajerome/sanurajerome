@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanura Josephina Jerome</h1>
-<h3 align="center">I'm am very passionate about software testing currently in Austin,TX.</h3>
+<h3 align="center">I'm a very passionate about software testing currently in Austin,TX.</h3>
 
 - 🔭 I’m currently working on **automation projects**
 
